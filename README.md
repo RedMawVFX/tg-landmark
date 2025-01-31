@@ -1,6 +1,14 @@
 # tg-landmark
+&#9888; This Python script is now part of the <b>redmaw-tg-toolkit</b> repository, and will no longer be developed as a stand-alone script in this repository.
+
+Click [here](https://github.com/RedMawVFX/redmaw-tg-toolkit) for the redmaw-tg-toolkit repository.<br> 
+Click [here](https://github.com/RedMawVFX/redmaw-tg-toolkit/tree/main/scripts/tg-landmark) to go directly to the <i>tg-landmark</i> folder in the redmaw-tg-toolkit.
+<hr>
+
 
 ## A fully functional EXAMPLE script written in Python showing how to add and position a Landmark object to Terragen 4 Professional.
+
+Terragen 4 Professional (version 4.6.31) introduces a remote procedure call (RPC) feature which allows third party applications to communicate with the active version of Terragen.
 
 ## In this example you'll learn how to: 
 * Create a GUI with frames, labels, radiobuttons and buttons
